@@ -23,4 +23,7 @@ if($hmh < 10) $hmh = "0".$hmm;
 echo $mdm."月".$mdd."日 ".$hmh."時".$hmm."分\n";
 // out2
 echo "ok";
+// out3
+echo "ok3";
+
 ?>
