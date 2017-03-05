@@ -21,6 +21,4 @@ if($mdd < 10) $mdd = "0".$mdd;
 if($hmh < 10) $hmh = "0".$hmm;
 // out
 echo $mdm."/".$mdd." ".$hmh.":".$hmm."\n";
-// out2
-echo "ok";
 ?>
